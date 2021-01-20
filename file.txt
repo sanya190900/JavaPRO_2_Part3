@@ -1,0 +1,6 @@
+name=Alexandr
+surname=Humeniuk
+age=20
+country=Ukraine
+email=email@gmail.com
+phoneNumber=12345
